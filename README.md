@@ -1,5 +1,5 @@
 ![JLAT_Word_Cloud](img/data_professional_portflio.png)
-### [Covid-19 Sentiment Pipeline](https://github.com/jlat07/DataZCW-Final-Project)   
+### [Covid-19 Sentiment Pipeline](https://github.com/jlat07/DataZCW-Final-Project/tree/dev)   
 
 - Airflow  
 - Kafka  
