@@ -1,6 +1,5 @@
 ![JLAT_Word_Cloud](img/data_professional_portflio.png)
-### [Covid-19 Sentiment Pipeline](https://github.com/jlat07/DataZCW-Final-Project)  
-![Covid-19_Pipeline](img/NLP_covid_pipeline2.png)  
+### [Covid-19 Sentiment Pipeline](https://github.com/jlat07/DataZCW-Final-Project)   
 
 - Airflow  
 - Kafka  
@@ -10,7 +9,6 @@
 
 ---
 ### [Automation Login](https://github.com/jlat07/Automation-Login)  
-![Automation_Login](img/automation_login.gif) 
   
 - Selenium  
 - Chrome Headless Browser  
@@ -18,7 +16,6 @@
 
 ---
 ### [Airflow Oura Ring Pipeline](https://github.com/jlat07/airflow_home)  
-![Airflow_Oura_ring](img/airflow---oura-pipeline.png)  
 
 - Airflow  
 - urlib 
@@ -27,8 +24,7 @@
   
 
 ---
-### [JLAT Black Jack](https://github.com/jlat07/PythonFundamentals.Labs.BlackJack)  
-![21](img/21_image.jpg)  
+### [JLAT Black Jack](https://github.com/jlat07/PythonFundamentals.Labs.BlackJack)   
   
 - Classes  
 - Unit Test  
@@ -36,8 +32,7 @@
   
 
 ---
-### [Binary Search](https://github.com/jlat07/PythonFundamentals.Exercises.Algos)  
-![Binary_Search](img/binary_search.png)  
+### [Binary Search](https://github.com/jlat07/PythonFundamentals.Exercises.Algos)   
 
 - Algorithms 
 - Augmentation
