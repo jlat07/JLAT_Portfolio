@@ -1,4 +1,5 @@
-![JLAT_Word_Cloud](img/data_professional_portflio.png)
+<img src="img/data_professional_portflio.png" width="1200" height="200"  
+
 ### [Covid-19 Sentiment Pipeline](https://github.com/jlat07/DataZCW-Final-Project/tree/dev)   
 
 - Airflow  
