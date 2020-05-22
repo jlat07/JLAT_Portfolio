@@ -2,10 +2,11 @@
   
 ### [Covid-19 Sentiment Pipeline](https://github.com/jlat07/DataZCW-Final-Project/tree/dev)   
 
-- Airflow  
-- Kafka  
-- Spark  
-- Dashboard  
+- Kafka
+- Spark
+- Airflow
+- PANDAS 
+- Plotly Dash   
   
 
 ---
