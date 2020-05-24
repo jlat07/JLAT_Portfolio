@@ -1,6 +1,8 @@
-![JLAT_Word_Cloud](img/data_professional_portflio.png)  
-  
-### [Covid-19 Sentiment Pipeline](https://github.com/jlat07/DataZCW-Final-Project/tree/dev)   
+![JLAT_Word_Cloud](img/data_professional_portfolio_resized.png)  
+
+---  
+
+### [Covid-19 Sentiment Pipeline*](https://jlat07.github.io/DataZCW-Final-Project/)   
 
 - Kafka
 - Spark
@@ -17,7 +19,7 @@
 - Cron Job   
 
 ---
-### [Airflow Oura Ring Pipeline](https://github.com/jlat07/airflow_home)  
+### [Airflow Oura Ring Pipeline*](https://github.com/jlat07/airflow_home)  
 
 - Airflow  
 - urlib 
@@ -40,7 +42,8 @@
 - Augmentation
 - 
 
----
+---  
+(* *Project still on going*)
 <!-- ### [Future Project]()  
 ![Image](src)  
   
