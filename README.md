@@ -44,7 +44,3 @@
 
 ---  
 (* *Project still on going*)
-<!-- ### [Future Project]()  
-![Image](src)  
-  
--   -->
